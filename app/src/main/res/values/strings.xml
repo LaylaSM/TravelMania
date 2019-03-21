@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TravelMania</string>
+
+    <string name="text_getstarted">Get Started</string>
+
+
+
+    <string name="title_onboarding_one">Discover your trip</string>
+    <string name="title_onboarding_two">Tell your amazing story </string>
+    <string name="title_onboarding_three">Get best Experience ever</string>
+
+
+</resources>
